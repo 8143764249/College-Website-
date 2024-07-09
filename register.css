@@ -1,0 +1,44 @@
+*{
+    margin:0px;
+    color: white;
+}
+.img
+{
+    width: 85%;
+    border: 5px solid black;
+    margin: 50px;
+    outline-color: white;
+    outline-width: 5px;
+    outline-style: solid;
+
+}
+.row .col1,.row .col2{
+    width: 50%;
+    float: left;
+    display: inline;
+
+}
+.mb3
+{
+    margin-bottom: 3px;
+}
+.form-control{
+    width: 100%;
+    border-radius: 5px;
+}
+.alert
+{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 3px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.btn
+{
+    border-radius: 3px;
+    padding: 6px;
+    color: black;
+    background-color: rosybrown;
+}

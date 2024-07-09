@@ -1,0 +1,21 @@
+body{
+    background-image: url('../images/geccollege.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.p1{
+    background-color: rgb(100, 204, 197,0.3);
+    padding: 10px;
+    font-size: 20px;
+    color:black;
+}
+.imgfr{
+    float: left;
+    border: 14px solid;
+    margin:15px;
+}
+.mytitle{
+  padding: 10px;
+  margin:0;
+background-color: rgb(100, 204, 197,0.3);
+}
